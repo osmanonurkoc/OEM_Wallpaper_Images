@@ -48,6 +48,24 @@
         <item>pixel4_11</item>
         <item>pixel4_12</item>
     </string-array>
+    <string-array name="pixel4a_wallpapers">
+        <item>pixel4a_1</item>
+        <item>pixel4a_2</item>
+        <item>pixel4a_3</item>
+        <item>pixel4a_4</item>
+        <item>pixel4a_5</item>
+        <item>pixel4a_6</item>
+        <item>pixel4a_7</item>
+        <item>pixel4a_8</item>
+        <item>pixel4a_9</item>
+        <item>pixel4a_10</item>
+        <item>pixel4a_11</item>
+        <item>pixel4a_12</item>
+        <item>pixel4a_13</item>
+        <item>pixel4a_14</item>
+        <item>pixel4a_15</item>
+        <item>pixel4a_16</item>
+    </string-array>
 	<string-array name="pixel5_wallpapers">
 		<item>pixel5_1</item>
         <item>pixel5_2</item>
@@ -235,6 +253,7 @@
 		<item>pixel2</item>
 		<item>pixel3</item>
 		<item>pixel4</item>
+		<item>pixel4a</item>
 		<item>pixel5</item>
 		<item>pixel6a</item>
 		<item>pixel6pro</item>
