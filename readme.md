@@ -19,9 +19,9 @@ Originally based on the Pixel 2 era `com.google.android.apps.wallpaper.nexus` st
 ## 📦 Included Collections
 
 This mod injects the following categories into your device:
-- **Pixel Series:** Pixel 1, Pixel 2, Pixel 3, Pixel 4, Pixel 5, Pixel 6 & 6 Pro, Pixel 7 & 7a, Pixel 8, 8a & 8 Pro, Pixel 9 Series, Pixel 10 Series.
+- **Pixel Series:** Pixel 1, Pixel 2, Pixel 3, Pixel 4, Pixel 5, Pixel 6, 6a & 6 Pro, Pixel 7 & 7a, Pixel 8, 8a & 8 Pro, Pixel 9 Series, Pixel 10 Series.
 - **Foldables:** Pixel Fold & Pixel 9 Pro Fold.
-- **Special Collections:** "For Fun", Minerals, Plants, and more.
+- **Special Collections:** "For Fun", "Keep Looking", Minerals, Plants, and more.
 
 ## 🚀 Installation
 
