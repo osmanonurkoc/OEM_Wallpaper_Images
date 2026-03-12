@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="static_categories" id="0x7f030005" />
+    <public type="string" name="app_name" id="0x7f040000" />
+</resources>
