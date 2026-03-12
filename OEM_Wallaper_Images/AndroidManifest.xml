@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.apps.wallpaper.nexus" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <application android:hasCode="false" android:label="@string/app_name" android:icon="@mipmap/ic_launcher_icon">
+        <meta-data android:name="static_categories" android:resource="@array/static_categories"/>
+    </application>
+    <compatible-screens>
+        <screen android:screenDensity="xxxhdpi" android:screenSize="small"/>
+        <screen android:screenDensity="xxxhdpi" android:screenSize="normal"/>
+        <screen android:screenDensity="xxxhdpi" android:screenSize="large"/>
+        <screen android:screenDensity="xxxhdpi" android:screenSize="xlarge"/>
+    </compatible-screens>
+</manifest>
