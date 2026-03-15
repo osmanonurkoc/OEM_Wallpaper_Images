@@ -22,7 +22,7 @@ This mod injects the following categories into your device:
 - **Pixel Series:** Pixel 1, Pixel 2, Pixel 3, Pixel 4 & 4a, Pixel 5, Pixel 6, 6a & 6 Pro, Pixel 7 & 7a, Pixel 8, 8a & 8 Pro, Pixel 9 Series, Pixel 10 Series.
 - **Foldables:** Pixel Fold & Pixel 9 Pro Fold.
 - **Special Collections:** "For Fun", "Keep Looking", Minerals, Plants, and more.
-- **OEM Collections:** Nothing Phone 1, 2, 2a, 3, 3a Lite, 3a Pro, 4a, 4a Pro & CMF 1
+- **OEM Collections:** Nothing Phone 1, 2, 2a, 3, 3a Lite, 3a Pro, 4a, 4a Pro & CMF 1 | Apple iPhone XS | Honor 20 Pro | Huawei Mate XS, P40 Pro | MIUI 12 | OnePlus 6, 7 Pro
 
 ## 🚀 Installation
 
