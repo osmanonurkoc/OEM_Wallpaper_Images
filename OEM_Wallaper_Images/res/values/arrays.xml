@@ -316,6 +316,120 @@
         <item>nothing4_4</item>
         <item>nothing4_5</item>
     </string-array>
+    <string-array name="iphone_wallpapers">
+        <item>iphone_1</item>
+        <item>iphone_2</item>
+        <item>iphone_3</item>
+        <item>iphone_4</item>
+        <item>iphone_5</item>
+        <item>iphone_6</item>
+    </string-array>
+    <string-array name="honor_wallpapers">
+        <item>honor_1</item>
+        <item>honor_2</item>
+        <item>honor_3</item>
+        <item>honor_4</item>
+        <item>honor_5</item>
+        <item>honor_6</item>
+        <item>honor_7</item>
+        <item>honor_8</item>
+        <item>honor_9</item>
+        <item>honor_10</item>
+        <item>honor_11</item>
+    </string-array>
+    <string-array name="mate_xs_wallpapers">
+        <item>mate_xs_1</item>
+        <item>mate_xs_2</item>
+        <item>mate_xs_3</item>
+        <item>mate_xs_4</item>
+        <item>mate_xs_5</item>
+        <item>mate_xs_6</item>
+        <item>mate_xs_7</item>
+        <item>mate_xs_8</item>
+    </string-array>
+    <string-array name="p40_pro_wallpapers">
+        <item>p40_pro_1</item>
+        <item>p40_pro_2</item>
+        <item>p40_pro_3</item>
+        <item>p40_pro_4</item>
+        <item>p40_pro_5</item>
+        <item>p40_pro_6</item>
+        <item>p40_pro_7</item>
+        <item>p40_pro_8</item>
+        <item>p40_pro_9</item>
+        <item>p40_pro_10</item>
+        <item>p40_pro_11</item>
+        <item>p40_pro_12</item>
+        <item>p40_pro_13</item>
+        <item>p40_pro_14</item>
+        <item>p40_pro_15</item>
+        <item>p40_pro_16</item>
+        <item>p40_pro_17</item>
+        <item>p40_pro_18</item>
+    </string-array>
+    <string-array name="miui12_wallpapers">
+        <item>miui12_1</item>
+        <item>miui12_2</item>
+        <item>miui12_3</item>
+        <item>miui12_4</item>
+        <item>miui12_5</item>
+        <item>miui12_6</item>
+        <item>miui12_7</item>
+        <item>miui12_8</item>
+        <item>miui12_9</item>
+        <item>miui12_10</item>
+        <item>miui12_11</item>
+        <item>miui12_12</item>
+        <item>miui12_13</item>
+        <item>miui12_14</item>
+        <item>miui12_15</item>
+        <item>miui12_16</item>
+        <item>miui12_17</item>
+        <item>miui12_18</item>
+        <item>miui12_19</item>
+        <item>miui12_20</item>
+        <item>miui12_21</item>
+        <item>miui12_22</item>
+        <item>miui12_23</item>
+        <item>miui12_24</item>
+        <item>miui12_25</item>
+        <item>miui12_26</item>
+        <item>miui12_27</item>
+        <item>miui12_28</item>
+        <item>miui12_29</item>
+    </string-array>
+    <string-array name="oneplus6_wallpapers">
+        <item>oneplus6_1</item>
+        <item>oneplus6_2</item>
+        <item>oneplus6_3</item>
+        <item>oneplus6_4</item>
+        <item>oneplus6_5</item>
+        <item>oneplus6_6</item>
+        <item>oneplus6_7</item>
+        <item>oneplus6_8</item>
+        <item>oneplus6_9</item>
+        <item>oneplus6_10</item>
+        <item>oneplus6_11</item>
+        <item>oneplus6_12</item>
+        <item>oneplus6_13</item>
+        <item>oneplus6_14</item>
+    </string-array>
+    <string-array name="oneplus7_pro_wallpapers">
+        <item>oneplus7_pro_1</item>
+        <item>oneplus7_pro_2</item>
+        <item>oneplus7_pro_3</item>
+        <item>oneplus7_pro_4</item>
+        <item>oneplus7_pro_5</item>
+        <item>oneplus7_pro_6</item>
+        <item>oneplus7_pro_7</item>
+        <item>oneplus7_pro_8</item>
+        <item>oneplus7_pro_9</item>
+        <item>oneplus7_pro_10</item>
+        <item>oneplus7_pro_11</item>
+        <item>oneplus7_pro_12</item>
+        <item>oneplus7_pro_13</item>
+        <item>oneplus7_pro_14</item>
+    </string-array>
     <string-array name="static_categories">
 		<item>pixel</item>
 		<item>pixel2</item>
@@ -342,5 +456,12 @@
 		<item>nothing2</item>
 		<item>nothing3</item>
 		<item>nothing4</item>
+        <item>iphone</item>
+        <item>honor</item>
+        <item>mate_xs</item>
+        <item>p40_pro</item>
+        <item>miui12</item>
+        <item>oneplus6</item>
+        <item>oneplus7_pro</item>
     </string-array>
 </resources>
