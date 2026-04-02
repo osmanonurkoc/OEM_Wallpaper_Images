@@ -3,6 +3,7 @@
 ![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android)
 ![License](https://img.shields.io/badge/License-GPL-blue.svg?style=flat-square)
 ![Release](https://img.shields.io/github/v/release/osmanonurkoc/OEM_Wallpaper_Images?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/osmanonurkoc/OEM_Wallpaper_Images/total)
 
 A modified Android extension APK that natively integrates exclusive Pixel and OEM wallpapers into the stock **Google Wallpapers** app. 
 
