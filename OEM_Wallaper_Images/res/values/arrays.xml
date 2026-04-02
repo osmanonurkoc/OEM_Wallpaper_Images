@@ -430,6 +430,39 @@
         <item>oneplus7_pro_13</item>
         <item>oneplus7_pro_14</item>
     </string-array>
+    <string-array name="oneplus7t_wallpapers">
+        <item>oneplus7t_1</item>
+        <item>oneplus7t_2</item>
+        <item>oneplus7t_3</item>
+        <item>oneplus7t_4</item>
+    </string-array>
+    <string-array name="oneplus_nord_wallpapers">
+        <item>oneplus_nord_1</item>
+        <item>oneplus_nord_2</item>
+        <item>oneplus_nord_3</item>
+        <item>oneplus_nord_4</item>
+        <item>oneplus_nord_5</item>
+        <item>oneplus_nord_6</item>
+    </string-array>
+    <string-array name="oppo_find_x2_wallpapers">
+        <item>oppo_find_x2_1</item>
+        <item>oppo_find_x2_2</item>
+        <item>oppo_find_x2_3</item>
+        <item>oppo_find_x2_4</item>
+        <item>oppo_find_x2_5</item>
+        <item>oppo_find_x2_6</item>
+    </string-array>
+    <string-array name="realme3_wallpapers">
+        <item>realme3_1</item>
+        <item>realme3_2</item>
+        <item>realme3_3</item>
+        <item>realme3_4</item>
+        <item>realme3_5</item>
+        <item>realme3_6</item>
+        <item>realme3_7</item>
+        <item>realme3_8</item>
+        <item>realme3_9</item>
+    </string-array>
     <string-array name="static_categories">
 		<item>pixel</item>
 		<item>pixel2</item>
@@ -463,5 +496,9 @@
         <item>miui12</item>
         <item>oneplus6</item>
         <item>oneplus7_pro</item>
+        <item>oneplus7t</item>
+        <item>oneplus_nord</item>
+        <item>oppo_find_x2</item>
+        <item>realme3</item>
     </string-array>
 </resources>
